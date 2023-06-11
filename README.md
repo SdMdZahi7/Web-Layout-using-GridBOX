@@ -25,8 +25,9 @@ header, footer, arti![image](https://github.com/SdMdZahi7/Web-Layout-using-GridB
 Ads
 Footer
 ~~~
-OUTPUT:
-![Uploading image.png…]()
-RESULT:
+## OUTPUT:
+![image](https://github.com/SdMdZahi7/Web-Layout-using-GridBOX/assets/94187572/90c21b67-22bf-4481-a1f6-8addef16a83a)
+
+## RESULT:
 Thus the web-layout using gridbos is created.
 
